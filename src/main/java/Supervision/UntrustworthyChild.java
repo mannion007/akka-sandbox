@@ -1,4 +1,4 @@
-package SupervisionStop;
+package Supervision;
 
 import akka.actor.*;
 import akka.japi.pf.ReceiveBuilder;

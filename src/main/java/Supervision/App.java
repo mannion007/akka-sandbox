@@ -1,4 +1,4 @@
-package SupervisionStop;
+package Supervision;
 
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
